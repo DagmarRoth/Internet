@@ -1,0 +1,100 @@
+{
+  "fonts": [
+    {
+      "aifont": "Helvetica",
+      "family": "Helvetica, Arial, sans-serif",
+      "weight": "normal",
+      "style": "normal"
+    },
+    {
+      "aifont": "Helvetica-Oblique",
+      "family": "Helvetica, Arial, sans-serif",
+      "weight": "normal",
+      "style": "italic"
+    },
+    {
+      "aifont": "Helvetica-Light",
+      "family": "Helvetica, Arial, sans-serif",
+      "weight": "300",
+      "style": "normal"
+    },
+    {
+      "aifont": "Helvetica-LightOblique",
+      "family": "Helvetica, Arial, sans-serif",
+      "weight": "300",
+      "style": "italic"
+    },
+    {
+      "aifont": "Helvetica-Bold",
+      "family": "Helvetica, Arial, sans-serif",
+      "weight": "bold",
+      "style": "normal"
+    },
+    {
+      "aifont": "Helvetica-BoldOblique",
+      "family": "Helvetica, Arial, sans-serif",
+      "weight": "bold",
+      "style": "italic"
+    },
+    {
+      "aifont": "MyriadPro-Regular",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "normal",
+      "style": "normal"
+    },
+    {
+      "aifont": "MyriadPro-It",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "normal",
+      "style": "italic"
+    },
+    {
+      "aifont": "MyriadPro-Light",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "300",
+      "style": "normal"
+    },
+    {
+      "aifont": "MyriadPro-LightIt",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "300",
+      "style": "italic"
+    },
+    {
+      "aifont": "MyriadPro-Semibold",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "600",
+      "style": "normal"
+    },
+    {
+      "aifont": "MyriadPro-SemiboldIt",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "600",
+      "style": "italic"
+    },
+    {
+      "aifont": "MyriadPro-Bold",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "bold",
+      "style": "normal"
+    },
+    {
+      "aifont": "MyriadPro-BoldIt",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "bold",
+      "style": "italic"
+    },
+    {
+      "aifont": "MyriadPro-Black",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "900",
+      "style": "normal"
+    },
+    {
+      "aifont": "MyriadPro-BlackIt",
+      "family": "\"Myriad Pro\", Myriad, Helvetica, Arial, sans-serif",
+      "weight": "900",
+      "style": "italic"
+    }
+  ]
+}
